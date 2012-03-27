@@ -3,7 +3,6 @@
 
 print 'hello world'
 print 'hello world again'
-print 'hello world once time'
 
 def say_hello():
     'This func is used to output hello and world'
